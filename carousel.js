@@ -1,13 +1,13 @@
 // Зображення для каруселі
 
 const carouselImages = [
-    { src: "./Pictures/Monday.jpg", alt: "Monday" },
-    { src: "./Pictures/Tuesday.jpg", alt: "Tuesday" },
-    { src: "./Pictures/Wednesday.jpg", alt: "Wednesday" },
-    { src: "./Pictures/Thursday.jpg", alt: "Thursday" },
-    { src: "./Pictures/Friday.jpg", alt: "Friday" },
-    { src: "./Pictures/Saturday.jpg", alt: "Saturday" },
-    { src: "./Pictures/Sunday.jpg", alt: "Sunday" }
+    { src: "./Pictures/monday.jpg", alt: "Monday" },
+    { src: "./Pictures/tuesday.jpg", alt: "Tuesday" },
+    { src: "./Pictures/wednesday.jpg", alt: "Wednesday" },
+    { src: "./Pictures/thursday.jpg", alt: "Thursday" },
+    { src: "./Pictures/friday.jpg", alt: "Friday" },
+    { src: "./Pictures/saturday.jpg", alt: "Saturday" },
+    { src: "./Pictures/sunday.jpg", alt: "Sunday" }
 ];
 
 // Зображення для каруселі  2
